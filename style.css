@@ -1,4 +1,42 @@
-body {background-color:tan;}
-h1{color:green;}
+body {background-color:black; font-family:arial;color:white;}
+h1{color:grey;font-family:Verdana;font-size: 30px;}
+.maindiv{
+    background-color: white;
+    color: black;
+    width: 450px;
+    padding: 20px;
+    border-radius: 25px;
+    text-align: center;
+}
 
+.mainn{
+  display: inline-block;
+  vertical-align: middle;
+}
 
+label{
+  text-align: right;
+  clear: both;
+  float:left;
+  margin-right:15px;
+}
+
+input.principal{
+  width: 50%;
+}
+
+.ratte{
+  margin-right: 51px;
+}
+
+.spann{
+  margin-left: 1px;
+}
+
+select{
+  margin-right: 220px;
+}
+
+.comp{
+  margin-right: 50px;
+}
